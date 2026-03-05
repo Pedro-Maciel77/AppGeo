@@ -4,24 +4,24 @@ Aplicativo mobile desenvolvido com React Native (Expo) para registrar pontos geo
 
 🚀 Funcionalidades
 
- Capturar localização do dispositivo
+ - Capturar localização do dispositivo
 
- Tirar foto com a câmera
+ - Tirar foto com a câmera
 
- Adicionar título e descrição
+ - Adicionar título e descrição
 
- Salvar dados em uma API
+ - Salvar dados em uma API
 
- Visualizar registros cadastrados
+ - Visualizar registros cadastrados
 
 🛠 Tecnologias
 
-React Native
+- React Native
 
-Expo
+- Expo
 
-TypeScript
+- TypeScript
 
-Expo Location
+- Expo Location
 
-Expo Image Picker
+- Expo Image Picker
